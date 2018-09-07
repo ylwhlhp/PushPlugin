@@ -1,0 +1,34 @@
+{
+    "name": "PushPlugin",
+    "version": "0.1.0",
+    "description": "This repository is deprecated head to phonegap/phonegap-push-plugin",
+    "cordova": {
+        "id": "com.kakegu.cordova.pushplugin",
+        "platforms": [
+            "ios",
+            "android",
+            "wp8"
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kakegu/PushPlugin.git"
+    },
+    "keywords": [
+        "pushplugin",
+        "ecosystem:cordova",
+        "cordova-ios",
+        "cordova-android",
+        "cordova-wp8"
+    ],
+    "engines": [{
+        "name": "cordova",
+        "version": ">=3.0.0"
+    }],
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/kakegu/PushPlugin/issues"
+    },
+    "homepage": "https://github.com/kakegu/PushPlugin.git#readme"
+}
